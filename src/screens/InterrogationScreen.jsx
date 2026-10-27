@@ -1,3 +1,4 @@
+import { useState } from "react";
 import SceneStage from "../components/SceneStage.jsx";
 import DialogueBox from "../components/DialogueBox.jsx";
 import ChoiceButton from "../components/choicebutton.jsx";
