@@ -1,11 +1,11 @@
 import { useState } from "react";
 import { AnimatePresence } from "motion/react";
 import SceneStage from "../components/SceneStage";
-import DialogueBox from "../components/DialogueBox";
-import ChoiceButton from "../components/ChoiceButton";
-import StageBar from "../components/StageBar";
-import EvidenceCard from "../components/EvidenceCard";
-import ExitButton from "../components/ExitButton";
+import DialogueBox from "../components/dialoguebox";
+import ChoiceButton from "../components/choicebutton";
+import StageBar from "../components/stagebar";
+import EvidenceCard from "../components/evidencecard";
+import ExitButton from "../components/exitbutton";
 import { CLOSE_Y, closeScaleFor } from "../components/sceneConfig";
 import { stages, scenario } from "../content/content";
 

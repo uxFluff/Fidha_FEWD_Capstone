@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Typewriter from "../components/Typewriter";
+import Typewriter from "../components/typewriter";
 import { cases, casesIntro, casesOutro } from "../content/content";
 
 export default function CasesScreen({ onNext, onRestart }) {
