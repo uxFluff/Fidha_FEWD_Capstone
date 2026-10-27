@@ -93,28 +93,28 @@ export const cases = [
     summary:
       "Nineteen years old when he was convicted under TADA for bombings in 1993. He confessed under police torture and spent 23 years in jail, including time on death row. In 2016 the Supreme Court acquitted him and ruled the confession inadmissible.",
     source: "https://indianexpress.com/article/india/india-news-india/babri-masjid-demolition-train-blast-tada-supreme-court-acquitted-in-babri-anniversary-train-blasts-case-nisar-2824883/?utm_source=chatgpt.com",
-    sourceLabel: "REPLACE with publication and headline",
+    
   },
   {
     name: "Akshardham Temple attack, 2002",
     summary:
       "Six men were convicted of an attack that killed 33 people. They spent about a decade in prison before the Supreme Court acquitted all of them for lack of evidence.",
     source: "https://cjp.org.in/wp-content/uploads/2017/06/SC-order-16May2014-Akshar-Dham-Terror-Case-DONE.pdf?utm_source=chatgpt.com",
-    sourceLabel: "REPLACE with publication and headline",
+    
   },
   {
     name: "Hussain alias Julfikar Ali",
     summary:
       "Convicted over a 2005 bus blast in Delhi that killed four people. He spent 15 years in prison, seven of them on death row, and was finally acquitted in 2013 after a retrial.",
     source: "https://indiankanoon.org/doc/147661398/?utm_source=chatgpt.com",
-    sourceLabel: "REPLACE with publication and headline",
+    
   },
   {
     name: "Vishnu Tiwari",
     summary:
       "Arrested in 2001 on a false rape charge. He spent 20 years in jail before the Allahabad High Court acquitted him in 2021.",
     source: "https://indiankanoon.org/doc/33067099/?utm_source=chatgpt.com",
-    sourceLabel: "REPLACE with publication and headline",
+    
   },
 ];
 
